@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-openai
+langchain-chroma
+langchain-text-splitters
+pypdf
+beautifulsoup4
+playwright
+html2text
+streamlit
+python-dotenv
